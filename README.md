@@ -11,9 +11,12 @@ Along the way, he will encounter varying gravity forces, black holes that will t
 
 ---------------------------------
 
+
+
+
 <a name="devlog-2"></a>
 ## Gravity Leap - DevLog #2 - making moves
-(תוכן חדש...)
+
 Now that the visual foundation is set, it was time to breathe life into our astronaut. This week was all about transition: moving from a static design in Figma/Photoshop to a playable character in Unity.
 
 The Physics of Space
@@ -36,4 +39,3 @@ Setting the Scene
 To complete the "Lost in Space" vibe, I integrated a deep-space nebula background. By managing the Sorting Layers, I made sure our hero stays in the spotlight while the galaxy swirls realistically behind him.
 
 What’s next? In the next update, I’ll be diving into the "Gravity Forces" mentioned in the story—looking at how to make different asteroids have different pull strengths.
-(תוכן קיים...)
