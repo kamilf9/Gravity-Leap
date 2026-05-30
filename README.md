@@ -39,3 +39,12 @@ Setting the Scene
 To complete the "Lost in Space" vibe, I integrated a deep-space nebula background. By managing the Sorting Layers, I made sure our hero stays in the spotlight while the galaxy swirls realistically behind him.
 
 What’s next? In the next update, I’ll be diving into the "Gravity Forces" mentioned in the story—looking at how to make different asteroids have different pull strengths.
+
+
+## Gravity Leap - DevLog #3 - Jumping and Flipping
+
+https://github.com/user-attachments/assets/59e50c69-5942-4ae8-a5bb-286b792a8881
+
+
+Implemented Character Movement, Jumping, and Flipping System
+Refactored the core script structure into a clean and functional CharacterController2D along with a separate PlayerMovement script to handle input. Resolved physics issues causing the character to hover by adjusting colliders and configured linearVelocity to ensure crisp, responsive movement. Additionally, implemented a fully functional flipping logic (transform.Rotate) using 180-degree rotations to prevent sprite distortion, fixed the jump detection using an optimized GroundCheck system, and prepared the structural foundation for crouch mechanics.
