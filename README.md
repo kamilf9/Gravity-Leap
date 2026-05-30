@@ -41,6 +41,14 @@ To complete the "Lost in Space" vibe, I integrated a deep-space nebula backgroun
 What’s next? In the next update, I’ll be diving into the "Gravity Forces" mentioned in the story—looking at how to make different asteroids have different pull strengths.
 
 
+---------------------------------
+
+
+
+
+<a name="devlog-2"></a>
+
+
 ## Gravity Leap - DevLog #3 - Jumping and Flipping
 
 https://github.com/user-attachments/assets/59e50c69-5942-4ae8-a5bb-286b792a8881
